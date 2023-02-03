@@ -50,7 +50,6 @@ public class LobbyMain : MonoBehaviour
             this.SelectedGunType = GameEnums.eGunType.Multiple;
         });
 
-
     }
 
 }
